@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.2.7](https://github.com/yumafuu/s1m/compare/v0.2.6...v0.2.7) - 2024-08-08
+- Release for v1.0.0 by @yumafuu in https://github.com/yumafuu/s1m/pull/24
+- [add] ghalint by @yumafuu in https://github.com/yumafuu/s1m/pull/26
+
 ## [v0.2.7](https://github.com/yumafuu/s1m/compare/v0.2.6...v0.2.7) - 2024-08-07
 
 ## [v0.2.6](https://github.com/yumafuu/s1m/compare/v0.2.5...v0.2.6) - 2024-08-07
